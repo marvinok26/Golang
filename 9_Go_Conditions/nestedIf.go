@@ -13,5 +13,6 @@ func main() {
 		}
 	} else {
 		fmt.Println("Num is less than 10.")
+
 	}
 }
