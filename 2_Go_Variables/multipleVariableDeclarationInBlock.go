@@ -15,3 +15,5 @@ func main() {
 	fmt.Println(b)
 	fmt.Println(c)
 }
+
+var thisArray = [3]int{3, 4, 5}
